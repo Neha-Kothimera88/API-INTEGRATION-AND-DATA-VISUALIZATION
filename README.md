@@ -91,6 +91,11 @@ Data Analytics: Understanding time-series data and visualizing it is essential f
 
 Learning API Integration: This project provides a practical foundation in consuming RESTful APIs, a must-have skill in modern software development.
 
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/e714f9f5-a08e-4922-8ed0-d9e0e245450f)
+
+
 Outcome:
 The final output was a graph titled "Temperature Forecast for Mumbai", showing temperature fluctuations across several days at regular intervals. The plot successfully gave insights into
 
