@@ -6,7 +6,7 @@
 
 *INTERN ID*: CT06DL1449
 
-*DOAMIN*: PYTHON PROGRAMMING
+*DOMAIN*: PYTHON PROGRAMMING
 
 *DURATION*: 6 WEEKS
 
@@ -14,7 +14,6 @@
 
 *TASK DESCRIPTION*: 
 In this project, I developed a Python-based application to fetch real-time weather forecast data for a specific city using the OpenWeatherMap API, and then visualized this data using 
-
 matplotlib.
 
 The task aimed to build an end-to-end data pipeline that retrieves weather data, processes it, and produces a visual plot showing temperature trends over time.
