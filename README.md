@@ -98,7 +98,6 @@ Learning API Integration: This project provides a practical foundation in consum
 
 Outcome:
 The final output was a graph titled "Temperature Forecast for Mumbai", showing temperature fluctuations across several days at regular intervals. The plot successfully gave insights into
-
 the upcoming weather patterns, demonstrating our ability to transform raw JSON data from an API into meaningful visual analytics.
 
 
